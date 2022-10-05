@@ -34,7 +34,7 @@
 }
 
 .main-head{
-    background-image: url(/Resources/Green\ Palm.jpeg);
+    background-image: url(hotelimg/Palm.jpeg);
     height: 140vh;
      background-size: cover; 
     background-position: center;
@@ -99,7 +99,7 @@ line-height: 1.8;
     
 }
 .box1{
-    background-image: url(/Resources/services.jpeg); 
+    background-image: url(hotelimg/services.jpeg); 
     background-size: cover; 
     background-position: center;
     background-color: rgba(0, 0, 0, 0.7);
@@ -108,7 +108,7 @@ line-height: 1.8;
 }
 
 .box2{
-    background-image: url(/Resources/hotel\ room.jpeg);
+    background-image: url(hotelimg/room.jpeg);
     background-size: cover; 
     background-position: center;
     background-color: rgba(0, 0, 0, 0.7);
@@ -116,7 +116,7 @@ line-height: 1.8;
     float: right;
 }
 .box3{
-    background-image: url(/Resources/buffet.jpeg);
+    background-image: url(hotelimg/buffet.jpeg);
     background-size: cover; 
     background-position: center;
     background-color: rgba(0, 0, 0, 0.7);
@@ -169,7 +169,7 @@ line-height: 1.8;
     transform: scale(1.1);
 }
 .container-2{
-    background-image: url(/Resources/people.jpeg);
+    background-image: url(hotelimg/people.jpeg);
     background-size: cover; 
     background-position: center;
     background-color: rgba(0, 0, 0, 0.7);
@@ -320,7 +320,7 @@ span{
 }
 /* About us */
 .head{
-    background-image: url(/Resources/about\ us.jpeg);
+    background-image: url(hotelimg/us.jpeg);
     height: 100vh;
      background-size: cover; 
     background-position: center;
